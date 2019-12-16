@@ -14,7 +14,7 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/componenta/buttons.json"
+                "path": "./snippets/components/buttons.json"
             },
             {
                 "language": "html",
