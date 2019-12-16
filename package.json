@@ -14,6 +14,10 @@
         "snippets": [
             {
                 "language": "html",
+                "path": "./snippets/componenta/buttons.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/free-template.json"
             },
             {

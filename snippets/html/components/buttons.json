@@ -1,0 +1,122 @@
+{
+    "MDBootstrap Primary Button": {
+        "prefix": "!m-bt-p",
+        "body": "<button type=\"button\" class=\"btn btn-primary\">${1:Primary}</button>",
+        "description": "Creates MDbootstrap Primary Button"
+    },
+    "MDBootstrap Secondary Button": {
+        "prefix": "!m-bt-sec",
+        "body": "<button type=\"button\" class=\"btn btn-secondary\">${1:Secondary}</button>",
+        "description": "Creates MDbootstrap Secondary Button"
+    },
+    "MDBootstrap Succes Button": {
+        "prefix": "!m-bt-suc",
+        "body": "<button type=\"button\" class=\"btn btn-succes\">${1:Succes}</button>",
+        "description": "Creates MDbootstrap Succes Button"
+    },
+    "MDBootstrap Danger Button": {
+        "prefix": "!m-bt-dan",
+        "body": "<button type=\"button\" class=\"btn btn-danger\">${1:Danger}</button>",
+        "description": "Creates MDbootstrap Danger Button"
+    },
+    "MDBootstrap Warning Button": {
+        "prefix": "!m-bt-war",
+        "body": "<button type=\"button\" class=\"btn btn-warning\">${1:Warning}</button>",
+        "description": "Creates MDbootstrap Warning Button"
+    },
+    "MDBootstrap Info Button": {
+        "prefix": "!m-bt-inf",
+        "body": "<button type=\"button\" class=\"btn btn-info\">${1:Info}</button>",
+        "description": "Creates MDbootstrap Info Button"
+    },
+    "MDBootstrap Light Button": {
+        "prefix": "!m-bt-lig",
+        "body": "<button type=\"button\" class=\"btn btn-light\">${1:Light}</button>",
+        "description": "Creates MDbootstrap Light Button"
+    },
+    "MDBootstrap Dark Button": {
+        "prefix": "!m-bt-dar",
+        "body": "<button type=\"button\" class=\"btn btn-dark\">${1:Dark}</button>",
+        "description": "Creates MDbootstrap Dark Button"
+    },
+    "MDBootstrap Link Button": {
+        "prefix": "!m-bt-lin",
+        "body": "<button type=\"button\" class=\"btn btn-link\">${1:Link}</button>",
+        "description": "Creates MDbootstrap Link Button"
+    },
+    "MDBootstrap Gradient Peach Button": {
+        "prefix": "!m-bt-gr-pe",
+        "body": "<button type=\"button\" class=\"btn peach-gradient\">${1:Peach}</button>",
+        "description": "Creates MDbootstrap Gradient Peach Button"
+    },
+    "MDBootstrap Gradient Purple Button": {
+        "prefix": "!m-bt-gr-pu",
+        "body": "<button type=\"button\" class=\"btn purple-gradient\">${1:Purple}</button>",
+        "description": "Creates MDbootstrap Gradient Purple Button"
+    },
+    "MDBootstrap Gradient Blue Button": {
+        "prefix": "!m-bt-gr-bl",
+        "body": "<button type=\"button\" class=\"btn blue-gradient\">${1:Blue}</button>",
+        "description": "Creates MDbootstrap Gradient Blue Button"
+    },
+    "MDBootstrap Gradient Aqua Button": {
+        "prefix": "!m-bt-gr-aq",
+        "body": "<button type=\"button\" class=\"btn aqua-gradient\">${1:Aqua}</button>",
+        "description": "Creates MDbootstrap Gradient Aqua Button"
+    },
+    "MDBootstrap Outline Primary Button": {
+        "prefix": "!m-bt-ou-pr",
+        "body": "<button type=\"button\" class=\"btn btn-outline-primary waves-effect\">${1:Outline}</button>",
+        "description": "Creates MDbootstrap Outline Primary Button"
+    },
+    "MDBootstrap Large Button": {
+        "prefix": "!m-bt-lg",
+        "body": "<button type=\"button\" class=\"btn btn-primary btn-lg\">${1:Large}</button>",
+        "description": "Creates MDbootstrap Large Button"
+    },
+    "MDBootstrap Small Button": {
+        "prefix": "!m-bt-sm",
+        "body": "<button type=\"button\" class=\"btn btn-primary btn-sm\">${1:Small}</button>",
+        "description": "Creates MDbootstrap Small Button"
+    },
+    "MDBootstrap Block Button": {
+        "prefix": "!m-bt-bloc",
+        "body": "<button type=\"button\" class=\"btn btn-default btn-lg btn-block\">${1:Block}</button>",
+        "description": "Creates MDbootstrap Block Button"
+    },
+    "MDBootstrap Checkbox Buttons": {
+        "prefix": "!m-bt-check",
+        "body": [
+            "<div class=\"btn-group btn-group-toggle\" data-toggle=\"buttons\">",
+            "   <label class=\"btn btn-primary active\">",
+            "       <input type=\"checkbox\" checked autocomplete=\"off\"> Checkbox 1 (pre-checked)",
+            "   </label>",
+            "   <label class=\"btn btn-primary\">",
+            "       <input type=\"checkbox\" autocomplete=\"off\"> Checkbox 2",
+            "   </label>",
+            "   <label class=\"btn btn-primary\">",
+            "       <input type=\"checkbox\" autocomplete=\"off\"> Checkbox 3",
+            "   </label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Checkbox Buttons"
+    },
+    "MDBootstrap Radio Buttons": {
+        "prefix": "!m-bt-radio",
+        "body": [
+            "<div class=\"btn-group btn-group-toggle\" data-toggle=\"buttons\">",
+            "   <label class=\"btn btn-primary form-check-label active\">",
+            "       <input class=\"form-check-input\" type=\"radio\" name=\"options\" id=\"option1\" autocomplete=\"off\" checked>",
+            "            Radio 1 (Preselected)",
+            "   </label>",
+            "   <label class=\"btn btn-primary form-check-label\">",
+            "       <input class=\"form-check-input\" type=\"radio\" name=\"options\" id=\"option2\" autocomplete=\"off\"> Radio",
+            "   </label>",
+            "   <label class=\"btn btn-primary form-check-label\">",
+            "       <input class=\"form-check-input\" type=\"radio\" name=\"options\" id=\"option3\" autocomplete=\"off\"> Radio",
+            "   </label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Radio Buttons"
+    }
+}
