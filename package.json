@@ -1,0 +1,21 @@
+{
+    "name": "MDB-VSCode-snippets",
+    "displayName": "mdbsnippets",
+    "description": "MDBootstrap snippet generator",
+    "version": "1.0.0",
+    "icon": "mdb.jpg",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/free-template.json"
+            }
+        ]
+    }
+}
