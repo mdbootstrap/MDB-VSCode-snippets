@@ -1,0 +1,22 @@
+{
+    "MDBootstrap Basic Nav": {
+        "prefix": "!m-nav-nv",
+        "body": [
+            "<ul class=\"nav grey lighten-4 py-4\">",
+            "   <li class=\"nav-item\">",
+            "       <a class=\"nav-link active\" href=\"#!\">Active</a>",
+            "   </li>",
+            "   <li class=\"nav-item\">",
+            "       <a class=\"nav-link\" href=\"#!\">Link</a>",
+            "   </li>",
+            "   <li class=\"nav-item\">",
+            "       <a class=\"nav-link\" href=\"#!\">Link</a>",
+            "   </li>",
+            "   <li class=\"nav-item\">",
+            "       <a class=\"nav-link disabled\" href=\"#!\">Disabled</a>",
+            "   </li>"
+        ],
+        "description": "Creates MDBootstrap Basic Nav"
+    }
+    
+}

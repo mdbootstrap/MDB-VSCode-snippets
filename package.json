@@ -15,6 +15,38 @@
             {
                 "language": "html",
                 "path": "./snippets/free-template.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/navbar.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/breadcrumbs.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/footer.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/hamburger-menu.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/mega-menu.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/navs.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/scrollspy.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/navigation/sidenav.json"
             }
         ]
     }
