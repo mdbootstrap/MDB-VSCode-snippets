@@ -21,7 +21,7 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 </nav>
 ```
 
-![Usage] (https://github.com/mdbootstrap/MDB-VSCode-snippets/blob/master/image/usage.gif = 250x250)
+![Usage](https://github.com/mdbootstrap/MDB-VSCode-snippets/blob/master/image/usage.gif)
 
 ## Shortcuts
 Name of component | Shortcut
