@@ -9,6 +9,13 @@
 		"type": "git",
 		"url": "https://github.com/mdbootstrap/MDB-VSCode-snippets.git"
     },
+    "keywords": [
+		"jQuery",
+		"MDbootstrap",
+        "MDB",
+        "HTML",
+        "JavaScript"
+	],
     "engines": {
         "vscode": "^1.41.0"
     },

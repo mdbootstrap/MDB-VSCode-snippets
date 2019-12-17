@@ -9,7 +9,7 @@ MDB-VSCode-snippets is a MDBootstrap users toolkit for boosting working with MDB
 With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 
 ``` 
-!m-nav-nv
+!mdb-breadcrumb
 ```
 ```
 <nav aria-label="breadcrumb">
@@ -27,7 +27,7 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 Name of component | Shortcut
 ------------ | -------------
 MDB HTML Template | !mdb
-Basic Breadcrumb | !mdb-breatcrumb
+Basic Breadcrumb | !mdb-breadcrumb
 Basic Footer | !mdb-footer
 Hamburger Menu | !mdb-hamburger-menu
 Mega Menu | !mdb-megamenu
