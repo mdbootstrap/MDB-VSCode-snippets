@@ -1,6 +1,6 @@
 {
     "MDBootstrap Basic ScrollSpy": {
-        "prefix": "!m-nav-ss",
+        "prefix": "!mdb-scrollspy",
         "body": [
             "<nav id=\"navbar-example2\" class=\"navbar navbar-light bg-light\">",
             "   <a class=\"navbar-brand\" href=\"#\">Navbar</a>",

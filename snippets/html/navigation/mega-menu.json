@@ -1,6 +1,6 @@
 {
     "MDBootstrap Basic Mega Menu": {
-        "prefix": "!m-nav-mn",
+        "prefix": "!mdb-megamenu",
         "body": [
             "<nav class=\"navbar navbar-expand-lg navbar-dark special-color-dark\">",
             "   <a class=\"navbar-brand text-uppercase\" href=\"#\">Navbar</a>",

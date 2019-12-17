@@ -21,36 +21,38 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 </nav>
 ```
 
+![Usage] (image/usage.gif)
+
 ## Shortcuts
 Name of component | Shortcut
 ------------ | -------------
 MDB HTML Template | !mdb
-Basic Breadcrumb | !m-nav-bc
-Basic Footer | !m-nav-ft
-Hamburger Menu | !m-nav-hm
-Mega Menu | !m-nav-mn
-Navbar | !m-nav-nb
-Nav | !m-nav-nv
-Scrollspy | !m-nav-sn
-Sidenav | !m-nav-sn
-Primary Btn | !m-bt-p
-Secondary Btn | !m-bt-sec
-Succes Btn | !m-bt-suc
-Danger Btn | !m-bt-dan
-Warning Btn | !m-bt-war
-Info Btn | !m-bt-inf
-Light Btn | !m-bt-lig
-Dark Btn | !m-bt-dar
-Link Btn | !m-bt-lin
-Gradient Peach Btn | !m-bt-gr-pe
-Gradient Blue Btn | !m-bt-gr-bl
-Gradient Aqua Btn | !m-bt-gr-aq
-Outline Primary Btn | !m-bt-ou-pr
-Large Btn | !m-bt-lg
-Small Btn | !m-bt-sm
-Block Btn | !m-bt-bloc
-Checkbox Btn | !m-bt-check
-Radio Btn | !m-bt-radio
+Basic Breadcrumb | !mdb-breatcrumb
+Basic Footer | !mdb-footer
+Hamburger Menu | !mdb-hamburger-menu
+Mega Menu | !mdb-megamenu
+Navbar | !mdb-navbar
+Nav | !mdb-nav
+Scrollspy | !mdb-scrollspy
+Sidenav | !mdb-side-nav
+Primary Btn | !mdb-button-primary
+Secondary Btn | !mdb-button-secondary
+Succes Btn | !mdb-button-succces
+Danger Btn | !mdb-button-danger
+Warning Btn | !mdb-button-warning
+Info Btn | !mdb-button-info
+Light Btn | !mdb-button-light
+Dark Btn | !mdb-button-dark
+Link Btn | !mdb-button-link
+Gradient Peach Btn | !mdb-button-gr-pe
+Gradient Blue Btn | !mdb-button-gr-bl
+Gradient Aqua Btn | !mdb-button-gr-aq
+Outline Primary Btn | !mdb-button-ou-pr
+Large Btn | !mdb-button-lg
+Small Btn | !mdb-button-sm
+Block Btn | !mdb-button-bloc
+Checkbox Btn | !mdb-button-check
+Radio Btn | !mdb-button-radio
 
 ### 1.0.0
 

@@ -1,6 +1,6 @@
 {
     "MDBootstrap Basic Nav": {
-        "prefix": "!m-nav-nv",
+        "prefix": "!mdb-nav",
         "body": [
             "<ul class=\"nav grey lighten-4 py-4\">",
             "   <li class=\"nav-item\">",

@@ -1,6 +1,6 @@
 {
     "MDBootstrap Basic Navbar": {
-        "prefix": "!m-nav-nb",
+        "prefix": "!mdb-navbar",
         "body": [
             "<!--Navbar-->",
             "<nav class=\"navbar navbar-expand-lg navbar-dark primary-color\">",

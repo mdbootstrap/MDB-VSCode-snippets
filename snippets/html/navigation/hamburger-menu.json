@@ -1,6 +1,6 @@
 {
     "MDBootstrap Basic Hamburger Menu": {
-        "prefix": "!m-nav-hm",
+        "prefix": "!mdb-hamburger-menu",
         "body": [
             "<nav class=\"navbar navbar-light light-blue lighten-4\">",
             "   <a class=\"navbar-brand\" href=\"#\">Navbar</a>",
