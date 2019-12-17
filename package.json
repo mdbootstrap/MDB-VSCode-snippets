@@ -1,9 +1,14 @@
 {
-    "name": "MDB-VSCode-snippets",
+    "name": "mdb-vscode-snippets",
+    "publisher": "MDB",
     "displayName": "mdbsnippets",
     "description": "MDBootstrap snippet generator",
     "version": "1.0.0",
-    "icon": "mdb.jpg",
+    "icon": "image/mdb.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/mdbootstrap/MDB-VSCode-snippets.git"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -14,7 +19,7 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/components/buttons.json"
+                "path": "./snippets/html/components/buttons.json"
             },
             {
                 "language": "html",
@@ -51,6 +56,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html/navigation/sidenav.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/forms/input.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/components/cards.json"
             }
         ]
     }
