@@ -21,7 +21,7 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 </nav>
 ```
 
-![Usage] (image/usage.gif)
+![Usage] (./image/usage.gif)
 
 ## Shortcuts
 Name of component | Shortcut
