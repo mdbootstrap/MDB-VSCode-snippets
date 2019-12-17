@@ -1,5 +1,6 @@
 {
     "name": "mdb-vscode-snippets",
+    "publisher": "MDB",
     "displayName": "mdbsnippets",
     "description": "MDBootstrap snippet generator",
     "version": "1.0.0",
