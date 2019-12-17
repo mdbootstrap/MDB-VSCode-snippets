@@ -1,0 +1,13 @@
+{
+    "MDBootstrap Basic Input": {
+        "prefix": "!mdb-input",
+        "body": [
+            "<div class=\"md-form\">",
+            "   <input type=\"text\" id=\"form1\" class=\"form-control\">",
+            "   <label for=\"form1\">Example label</label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Basic Input"
+    }
+    
+}
