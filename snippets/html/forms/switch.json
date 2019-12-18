@@ -1,0 +1,15 @@
+{
+    "MDBootstrap Basic Material Switch": {
+        "prefix": "!mdb-switch",
+        "body": [
+            "<div class=\"switch\">",
+            "   <label>",
+            "       Off",
+            "       <input type=\"checkbox\">",
+            "       <span class=\"lever\"></span> On",
+            "   </label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Basic Material Switch"
+    }    
+}

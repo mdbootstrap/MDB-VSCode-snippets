@@ -1,0 +1,10 @@
+{
+    "MDBootstrap Basic Slider": {
+        "prefix": "!mdb-slider",
+        "body": [
+            "<label for=\"${1:customRange1}\">Example range</label>",
+            "<input type=\"range\" class=\"custom-range\" id=\"${1:customRange1}\">"
+        ],
+        "description": "Creates MDbootstrap Basic Slider"
+    }    
+}

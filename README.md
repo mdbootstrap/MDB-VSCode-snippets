@@ -37,6 +37,8 @@ Scrollspy | !mdb-scrollspy
 Sidenav | !mdb-side-nav
 Material Input | !mdb-input
 Basic Card | !mdb-card
+Basic Slider | !mdb-slider
+Material Switch | !mdb-switch
 Primary Btn | !mdb-button-primary
 Secondary Btn | !mdb-button-secondary
 Succes Btn | !mdb-button-succces

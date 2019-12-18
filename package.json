@@ -70,6 +70,14 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/html/forms/sliders.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/forms/switch.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/html/components/cards.json"
             },
             {
