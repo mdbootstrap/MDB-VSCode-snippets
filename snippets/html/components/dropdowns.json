@@ -1,0 +1,18 @@
+{
+    "MDBootstrap Basic Dropdown": {
+        "prefix": "!mdb-dropdown",
+        "body": [
+            "<div class=\"dropdown\">",
+            "   <a class=\"btn btn-primary dropdown-toggle\" type=\"button\" id=\"${1:dropdownMenu2}\" data-toggle=\"dropdown\"",
+            "       aria-haspopup=\"true\" aria-expanded=\"false\">Material dropdown</a>",
+            "   <div class=\"dropdown-menu dropdown-primary\">",
+            "       <a class=\"dropdown-item\" href=\"#\">Action</a>",
+            "       <a class=\"dropdown-item\" href=\"#\">Another action</a>",
+            "       <a class=\"dropdown-item\" href=\"#\">Something else here</a>",
+            "       <a class=\"dropdown-item\" href=\"#\">Something else here</a>",
+            "   </div>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Basic Dropdown"
+    }    
+}

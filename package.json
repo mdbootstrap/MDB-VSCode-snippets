@@ -71,6 +71,10 @@
             {
                 "language": "html",
                 "path": "./snippets/html/components/cards.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/components/dropdowns.json"
             }
         ]
     }
