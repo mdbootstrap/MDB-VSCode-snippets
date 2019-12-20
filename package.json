@@ -83,6 +83,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html/components/dropdowns.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/components/loaders.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/components/panels.json"
             }
         ]
     }

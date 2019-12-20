@@ -1,0 +1,30 @@
+{
+    "MDBootstrap Basic Material Loader": {
+        "prefix": "!mdb-loader",
+        "body": [
+            "<div class=\"preloader-wrapper active\">",
+            "   <div class=\"spinner-layer spinner-blue-only\">",
+            "       <div class=\"circle-clipper left\">",
+            "           <div class=\"circle\"></div>",
+            "       </div>",
+            "       <div class=\"gap-patch\">",
+            "           <div class=\"circle\"></div>",
+            "       </div>",
+            "       <div class=\"circle-clipper right\">",
+            "           <div class=\"circle\"></div>",
+            "       </div>",
+            "   </div>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Basic Material Loader"
+    },
+    "MDBootstrap Basic Defult Loader": {
+        "prefix": "!mdb-loader-df",
+        "body": [
+            "<div class=\"spinner-border\" role=\"status\">",
+            "   <span class=\"sr-only\">Loading...</span>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Basic Default Loader"
+    }    
+}

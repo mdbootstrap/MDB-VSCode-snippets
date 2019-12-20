@@ -1,0 +1,16 @@
+{
+    "MDBootstrap Basic Panel": {
+        "prefix": "!mdb-panel",
+        "body": [
+            "<div class=\"card\">",
+            "   <div class=\"card-body\">",
+            "       <h5 class=\"card-title\">${1:Panel title}</h5>",
+            "       <p class=\"card-text\">Some quick example text to build on the panel title and make up the bulk of the panel's content.</p>",
+            "       <a class=\"card-link\">Card link</a>",
+            "       <a class=\"card-link\">Another link</a>",
+            "   </div>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Basic Panel"
+    }
+}

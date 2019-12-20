@@ -39,6 +39,9 @@ Material Input | !mdb-input
 Basic Card | !mdb-card
 Basic Slider | !mdb-slider
 Material Switch | !mdb-switch
+Material Loader | !mdb-loader
+Default Loader |  !mdb-loader-df
+Basic Panel | !mdb-panel
 Primary Btn | !mdb-button-primary
 Secondary Btn | !mdb-button-secondary
 Succes Btn | !mdb-button-succces
