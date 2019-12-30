@@ -42,6 +42,14 @@ Material Switch | !mdb-switch
 Material Loader | !mdb-loader
 Default Loader |  !mdb-loader-df
 Basic Panel | !mdb-panel
+MDB Primary Alert | !mdb-alert-primary
+MDB Secondary Alert | !mdb-alert-secondary
+MDB Success Alert | !mdb-alert-success
+MDB Danger Alert | !mdb-alert-danger
+MDB Warning Alert | !mdb-alert-warning
+MDB Info Alert | !mdb-alert-info
+MDB Light Alert | !mdb-alert-light
+MDB Dark Alert | !mdb-alert-dark
 Primary Btn | !mdb-button-primary
 Secondary Btn | !mdb-button-secondary
 Succes Btn | !mdb-button-succces
@@ -70,7 +78,7 @@ Initial release of MDBootstrap-VSCode-snippets.
 ### Instalation 
 1. Launch Visual Studio Code
 2. Go to extensions tab - Ctrl-Shift-X (Windows, Linux) or Cmd-Shift-X (OSX)
-3. Search for 'MDB Angular Snippets'
+3. Search for 'mdbsnippets'
 4. Choose the extension
 5. Install extension and reload Visual Studio Code
 

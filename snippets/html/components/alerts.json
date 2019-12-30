@@ -1,0 +1,74 @@
+{
+    "MDBootstrap Primary Alert": {
+        "prefix": "!mdb-alert-primary",
+        "body": [
+            "<div class=\"alert alert-primary\" role=\"alert\">",
+            "   ${1:A simple primary alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Primary Alert"
+    },
+    "MDBootstrap Secondary Alert": {
+        "prefix": "!mdb-alert-secondary",
+        "body": [
+            "<div class=\"alert alert-secondary\" role=\"alert\">",
+            "   ${1:A simple secondary alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Secondary Alert"
+    },
+    "MDBootstrap Success Alert": {
+        "prefix": "!mdb-alert-success",
+        "body": [
+            "<div class=\"alert alert-success\" role=\"alert\">",
+            "   ${1:A simple success alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Success Alert"
+    },
+    "MDBootstrap Danger Alert": {
+        "prefix": "!mdb-alert-danger",
+        "body": [
+            "<div class=\"alert alert-danger\" role=\"alert\">",
+            "   ${1:A simple danger alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Danger Alert"
+    },
+    "MDBootstrap Warning Alert": {
+        "prefix": "!mdb-alert-warning",
+        "body": [
+            "<div class=\"alert alert-warning\" role=\"alert\">",
+            "   ${1:A simple warning alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Warning Alert"
+    },
+    "MDBootstrap Info Alert": {
+        "prefix": "!mdb-alert-info",
+        "body": [
+            "<div class=\"alert alert-info\" role=\"alert\">",
+            "   ${1:A simple info alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Info Alert"
+    },
+    "MDBootstrap Light Alert": {
+        "prefix": "!mdb-alert-light",
+        "body": [
+            "<div class=\"alert alert-light\" role=\"alert\">",
+            "   ${1:A simple light alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Light Alert"
+    },
+    "MDBootstrap Dark Alert": {
+        "prefix": "!mdb-alert-dark",
+        "body": [
+            "<div class=\"alert alert-dark\" role=\"alert\">",
+            "   ${1:A simple dark alert—check it out!}",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Dark Alert"
+    }
+}
