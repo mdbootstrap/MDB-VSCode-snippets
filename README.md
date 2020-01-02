@@ -50,6 +50,9 @@ MDB Warning Alert | !mdb-alert-warning
 MDB Info Alert | !mdb-alert-info
 MDB Light Alert | !mdb-alert-light
 MDB Dark Alert | !mdb-alert-dark
+Material Checkbox | !mdb-checkbox
+Default Checkbox | !mdb-checkbox-default
+Inline Checkboxes | !mdb-checkbox-inline
 Primary Btn | !mdb-button-primary
 Secondary Btn | !mdb-button-secondary
 Succes Btn | !mdb-button-succces

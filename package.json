@@ -78,6 +78,10 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/html/forms/checkboxes.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/html/components/cards.json"
             },
             {

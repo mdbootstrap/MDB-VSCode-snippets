@@ -1,0 +1,41 @@
+{   
+    "MDBootstrap Material Checkbox": {
+        "prefix": "!mdb-checkbox",
+        "body": [
+            "<div class=\"form-check\">",
+            "   <input type=\"checkbox\" class=\"form-check-input\" id=\"${1:materialUnchecked}\">",
+            "   <label class=\"form-check-label\" for=\"${1:materialUnchecked}\">Material unchecked</label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Material Checkbox"
+    },
+    "MDBootstrap Default Checkbox": {
+        "prefix": "!mdb-checkbox-default",
+        "body": [
+            "<div class=\"custom-control custom-checkbox\">",
+            "   <input type=\"checkbox\" class=\"custom-control-input\" id=\"${1:defaultUnchecked}\">",
+            "   <label class=\"custom-control-label\" for=\"${1:defaultUnchecked}\">Default unchecked</label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Default Checkbox"
+    },
+    "MDBootstrap Inline Checkboxes": {
+        "prefix": "!mdb-checkbox-inline",
+        "body": [
+            "<div class=\"form-check form-check-inline\">",
+            "   <input type=\"checkbox\" class=\"form-check-input\" id=\"${1:materialInline1}\">",
+            "   <label class=\"form-check-label\" for=\"${1:materialInline1}\">1</label>",
+            "</div>",
+            "<div class=\"form-check form-check-inline\">",
+            "   <input type=\"checkbox\" class=\"form-check-input\" id=\"${2:materialInline2}\">",
+            "   <label class=\"form-check-label\" for=\"${2:materialInline2}\">2</label>",
+            "</div>",
+            "<div class=\"form-check form-check-inline\">",
+            "   <input type=\"checkbox\" class=\"form-check-input\" id=\"${3:materialInline3}\">",
+            "   <label class=\"form-check-label\" for=\"${3:materialInline3}\">3</label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Inline Checkboxes"
+    }
+    
+}
