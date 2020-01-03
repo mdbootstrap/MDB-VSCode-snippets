@@ -1,6 +1,6 @@
 {
-    "MDBootstrap Basic Dropdown": {
-        "prefix": "!mdb-dropdown",
+    "MDBootstrap Basic Dropdown Primary": {
+        "prefix": "!mdb-dropdown-primary",
         "body": [
             "<div class=\"dropdown\">",
             "   <a class=\"btn btn-primary dropdown-toggle\" type=\"button\" id=\"${1:dropdownMenu2}\" data-toggle=\"dropdown\"",
@@ -13,6 +13,6 @@
             "   </div>",
             "</div>"
         ],
-        "description": "Creates MDbootstrap Basic Dropdown"
+        "description": "Creates MDbootstrap Basic Dropdown Primary"
     }    
 }

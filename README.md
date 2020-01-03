@@ -33,28 +33,38 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 -----------------------------------------------------------------------------------------------------------
 
 ## Shortcuts
+- [General](#general)
 - Components
   - [Alerts](#alerts)
+  - [Buttons](#buttons)
+  - [Cards](#cards)
+  - [Dropdowns](#dropdowns)
+  - [Loaders](#loaders)
+  - [Panels](#panels)
+- Navigation
+  - [Breadcrumbs](#breadcrumbs)
+  - [Footer](#footer)
+  - [Hamburger Menu](#hamburger-menu)
+  - [Mega Menu](#mega-menu)
+  - [Navs](#navs)
+  - [Navbar](#navbar)
+  - [Scrollspy](#scrollspy)
+  - [Sidenav](#sidenav)
+- Forms
+  - [Checkbox](#checkbox)
+  - [Inputs](#inputs)
+  - [Slider](#slider)
+  - [Switch](#switch)
 
 
+#### General
 Name of component | Shortcut
 ------------ | -------------
 MDB HTML Template | !mdb
-Basic Breadcrumb | !mdb-breadcrumb
-Basic Footer | !mdb-footer
-Hamburger Menu | !mdb-hamburger-menu
-Mega Menu | !mdb-megamenu
-Navbar | !mdb-navbar
-Nav | !mdb-nav
-Scrollspy | !mdb-scrollspy
-Sidenav | !mdb-side-nav
-Material Input | !mdb-input
-Basic Card | !mdb-card
-Basic Slider | !mdb-slider
-Material Switch | !mdb-switch
-Material Loader | !mdb-loader
-Default Loader |  !mdb-loader-df
-Basic Panel | !mdb-panel
+
+#### Alerts
+Name of component | Shortcut
+------------ | -------------
 MDB Primary Alert | !mdb-alert-primary
 MDB Secondary Alert | !mdb-alert-secondary
 MDB Success Alert | !mdb-alert-success
@@ -63,9 +73,10 @@ MDB Warning Alert | !mdb-alert-warning
 MDB Info Alert | !mdb-alert-info
 MDB Light Alert | !mdb-alert-light
 MDB Dark Alert | !mdb-alert-dark
-Material Checkbox | !mdb-checkbox
-Default Checkbox | !mdb-checkbox-default
-Inline Checkboxes | !mdb-checkbox-inline
+
+#### Buttons
+Name of component | Shortcut
+------------ | -------------
 Primary Btn | !mdb-button-primary
 Secondary Btn | !mdb-button-secondary
 Succes Btn | !mdb-button-succces
@@ -85,17 +96,88 @@ Block Btn | !mdb-button-bloc
 Checkbox Btn | !mdb-button-check
 Radio Btn | !mdb-button-radio
 
-#### Alerts
+#### Cards
 Name of component | Shortcut
 ------------ | -------------
-MDB Primary Alert | !mdb-alert-primary
-MDB Secondary Alert | !mdb-alert-secondary
-MDB Success Alert | !mdb-alert-success
-MDB Danger Alert | !mdb-alert-danger
-MDB Warning Alert | !mdb-alert-warning
-MDB Info Alert | !mdb-alert-info
-MDB Light Alert | !mdb-alert-light
-MDB Dark Alert | !mdb-alert-dark
+Basic Card | !mdb-card
+
+#### Dropdowns
+Name of component | Shortcut
+------------ | -------------
+MDB Primary Dropdown | !mdb-dropdown-primary
+
+#### Loaders
+Name of component | Shortcut
+------------ | -------------
+Material Loader | !mdb-loader
+Default Loader |  !mdb-loader-df
+
+#### Panels
+Name of component | Shortcut
+------------ | -------------
+Basic Panel | !mdb-panel
+
+#### Breadcrumbs
+Name of component | Shortcut
+------------ | -------------
+Basic Breadcrumb | !mdb-breadcrumb
+
+#### Footer
+Name of component | Shortcut
+------------ | -------------
+Basic Footer | !mdb-footer
+
+#### Hamburger Menu
+Name of component | Shortcut
+------------ | -------------
+Hamburger Menu | !mdb-hamburger-menu
+
+#### Mega Menu
+Name of component | Shortcut
+------------ | -------------
+Mega Menu | !mdb-megamenu
+
+#### Navs
+Name of component | Shortcut
+------------ | -------------
+MDB Nav | !mdb-nav
+
+#### Navbar
+Name of component | Shortcut
+------------ | -------------
+MDB Navbar | !mdb-navbar
+
+#### Scrollspy
+Name of component | Shortcut
+------------ | -------------
+Scrollspy | !mdb-scrollspy
+
+#### Sidenav
+Name of component | Shortcut
+------------ | -------------
+Sidenav | !mdb-side-nav
+
+#### Checkbox
+Name of component | Shortcut
+------------ | -------------
+Material Checkbox | !mdb-checkbox
+Default Checkbox | !mdb-checkbox-default
+Inline Checkboxes | !mdb-checkbox-inline
+
+#### Inputs
+Name of component | Shortcut
+------------ | -------------
+Material Input | !mdb-input
+
+#### Slider
+Name of component | Shortcut
+------------ | -------------
+Basic Slider | !mdb-slider
+
+#### Switch
+Name of component | Shortcut
+------------ | -------------
+Material Switch | !mdb-switch
 
 ### 1.0.0
 
