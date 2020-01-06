@@ -1,0 +1,12 @@
+{
+    "MDBootstrap Basic Date Picker": {
+        "prefix": "!mdb-datepicker",
+        "body": [
+            "<div class=\"md-form\">",
+            "   <input placeholder=\"Selected date\" type=\"text\" id=\"${1:date-picker-example}\" class=\"form-control datepicker\">",
+            "   <label for=\"${1:date-picker-example}\">Try me...</label>",
+            "</div>"
+        ],
+        "description": "Creates MDbootstrap Date Picker"
+    }
+}
