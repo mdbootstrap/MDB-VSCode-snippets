@@ -16,6 +16,7 @@ mdbSnippets 1.1.0 comes with new HTML snippets for MDB Free and Pro components.
 #### Other
 - Edit mdbsnippets documentation.
 
+--------------------------------------------------------------------------------
 
 ## [1.0.0]
 
