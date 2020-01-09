@@ -179,8 +179,9 @@ Name of component | Shortcut
 ------------ | -------------
 Material Switch | !mdb-switch
 
+### 1.1.0
+New snippets for MDB components.
 ### 1.0.0
-
 Initial release of MDBootstrap-VSCode-snippets.
 
 -----------------------------------------------------------------------------------------------------------
