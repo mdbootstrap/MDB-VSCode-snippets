@@ -187,5 +187,8 @@ Initial release of MDBootstrap-VSCode-snippets.
 
 
 ### For more information
+Visit [MDBootstrap Page](https://mdbootstrap.com/).
+Get [MDB FREE](https://mdbootstrap.com/docs/jquery/getting-started/download/).
+Get [MDB PRO](https://mdbootstrap.com/products/jquery-ui-kit/).
 
 **Enjoy!**
