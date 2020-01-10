@@ -194,8 +194,8 @@ Initial release of MDBootstrap-VSCode-snippets.
 5. Install extension and reload Visual Studio Code
 
 ### For more information
-Visit [MDBootstrap Page](https://mdbootstrap.com/).
-Get [MDB FREE](https://mdbootstrap.com/docs/jquery/getting-started/download/).
-Get [MDB PRO](https://mdbootstrap.com/products/jquery-ui-kit/).
+- Visit [MDBootstrap Page](https://mdbootstrap.com/).
+- Get [MDB FREE](https://mdbootstrap.com/docs/jquery/getting-started/download/).
+- Get [MDB PRO](https://mdbootstrap.com/products/jquery-ui-kit/).
 
 **Enjoy!**
