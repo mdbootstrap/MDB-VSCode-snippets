@@ -186,6 +186,12 @@ Initial release of MDBootstrap-VSCode-snippets.
 
 -----------------------------------------------------------------------------------------------------------
 
+### Instalation 
+1. Launch Visual Studio Code
+2. Go to extensions tab - Ctrl-Shift-X (Windows, Linux) or Cmd-Shift-X (OSX)
+3. Search for 'mdbsnippets'
+4. Choose the extension
+5. Install extension and reload Visual Studio Code
 
 ### For more information
 Visit [MDBootstrap Page](https://mdbootstrap.com/).
