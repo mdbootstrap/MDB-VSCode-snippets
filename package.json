@@ -95,9 +95,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html/components/panels.json"
-            },{
+            },
+            {
                 "language": "html",
                 "path": "./snippets/html/components/alerts.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/modals/basic-examples.json"
             }
         ]
     }

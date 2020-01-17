@@ -55,6 +55,8 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
   - [Inputs](#inputs)
   - [Slider](#slider)
   - [Switch](#switch)
+- Modals
+  - [Basic Modals](#basic-modals)
 
 
 #### General
@@ -179,19 +181,21 @@ Name of component | Shortcut
 ------------ | -------------
 Material Switch | !mdb-switch
 
+#### Basic Modals
+Name of component | Shortcut
+------------ | -------------
+Basic Example | !mdb-modal
+
+-----------------------------------------------------------------------------------------------------------
+
+## Versions
+
 ### 1.1.0
 New snippets for MDB components.
 ### 1.0.0
 Initial release of MDBootstrap-VSCode-snippets.
 
 -----------------------------------------------------------------------------------------------------------
-
-### Instalation 
-1. Launch Visual Studio Code
-2. Go to extensions tab - Ctrl-Shift-X (Windows, Linux) or Cmd-Shift-X (OSX)
-3. Search for 'mdbsnippets'
-4. Choose the extension
-5. Install extension and reload Visual Studio Code
 
 ### For more information
 - Visit [MDBootstrap Page](https://mdbootstrap.com/).
