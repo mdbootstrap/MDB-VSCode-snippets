@@ -57,6 +57,7 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
   - [Switch](#switch)
 - Modals
   - [Basic Modals](#basic-modals)
+  - [Advanced Modals](#advanced-modals)
 
 
 #### General
@@ -185,6 +186,11 @@ Material Switch | !mdb-switch
 Name of component | Shortcut
 ------------ | -------------
 Basic Example | !mdb-modal
+
+#### Advanced Modals
+Name of component | Shortcut
+------------ | -------------
+Modal Cookies | !mdb-modal-cookies
 
 -----------------------------------------------------------------------------------------------------------
 
