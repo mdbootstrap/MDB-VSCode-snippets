@@ -199,6 +199,7 @@ Name of component | Shortcut
 ------------ | -------------
 Basic Example | !mdb-table
 Striped Table | !mdb-table-striped
+Bordered Table | !mdb-table-bordered
 
 -----------------------------------------------------------------------------------------------------------
 
