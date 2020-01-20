@@ -205,6 +205,8 @@ Bordered Table | !mdb-table-bordered
 
 ## Versions
 
+### 1.2.0
+New snippets for MDB components and update template to MDB 4.12.0 version.
 ### 1.1.0
 New snippets for MDB components.
 ### 1.0.0

@@ -2,6 +2,24 @@
 
 All notable changes to the "mdbsnippets" extension will be documented in this file.
 
+## [1.2.0]
+
+### What's new?
+mdbSnippets 1.2.0 comes with new HTML snippets for MDB Free and Pro components. New version contains update html template to MDB 4.12.0 version.
+
+#### Updates in Tables
+- Add HTML snippets for basic, stripped and bordered tables.
+
+#### Updates in Modals
+- Add HTML snippets for basic and Modal Cookies.
+
+#### Other
+- Update js and css links to MDB 4.12.0 version.
+- Add cdn Roboto link in MDB Template.
+- Edit mdbsnippets documentation.
+
+--------------------------------------------------------------------------------
+
 ## [1.1.0]
 
 ### What's new?
