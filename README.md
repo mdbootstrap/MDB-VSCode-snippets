@@ -198,6 +198,7 @@ Modal Cookies | !mdb-modal-cookies
 Name of component | Shortcut
 ------------ | -------------
 Basic Example | !mdb-table
+Striped Table | !mdb-table-striped
 
 -----------------------------------------------------------------------------------------------------------
 
