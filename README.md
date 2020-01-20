@@ -55,6 +55,8 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
   - [Inputs](#inputs)
   - [Slider](#slider)
   - [Switch](#switch)
+- Tables
+  - [Basic Tables](#basic-tables)
 - Modals
   - [Basic Modals](#basic-modals)
   - [Advanced Modals](#advanced-modals)
@@ -191,6 +193,11 @@ Basic Example | !mdb-modal
 Name of component | Shortcut
 ------------ | -------------
 Modal Cookies | !mdb-modal-cookies
+
+#### Basic Tables
+Name of component | Shortcut
+------------ | -------------
+Basic Example | !mdb-table
 
 -----------------------------------------------------------------------------------------------------------
 

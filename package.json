@@ -107,6 +107,10 @@
             {
                 "language": "html",
                 "path": "./snippets/html/modals/advanced-examples.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/tables/basic-examples.json"
             }
         ]
     }
