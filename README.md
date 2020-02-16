@@ -60,6 +60,8 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
 - Modals
   - [Basic Modals](#basic-modals)
   - [Advanced Modals](#advanced-modals)
+- Plugins
+  - [iFrame](#iFrame)
 
 
 #### General
@@ -201,10 +203,18 @@ Basic Example | !mdb-table
 Striped Table | !mdb-table-striped
 Bordered Table | !mdb-table-bordered
 
+#### IFrame
+Name of component | Shortcut
+------------ | -------------
+YouTube iFrame | !mdb-iFrame-yt
+Vimeo iFrame | !mdb-iFrame-vimeo
+
 -----------------------------------------------------------------------------------------------------------
 
 ## Versions
 
+### 1.3.0
+New snippets for MDB components and update template to MDB 4.13.0 version.
 ### 1.2.0
 New snippets for MDB components and update template to MDB 4.12.0 version.
 ### 1.1.0

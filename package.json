@@ -111,6 +111,10 @@
             {
                 "language": "html",
                 "path": "./snippets/html/tables/basic-examples.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/plugins/free-plugins.json"
             }
         ]
     }
