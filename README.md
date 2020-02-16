@@ -62,6 +62,7 @@ With MDB-VSCode-snippets you can use shortcuts instead of writing whole code.
   - [Advanced Modals](#advanced-modals)
 - Plugins
   - [iFrame](#iFrame)
+  - [Edge Header](#edge-header)
 
 
 #### General
@@ -209,6 +210,10 @@ Name of component | Shortcut
 YouTube iFrame | !mdb-iFrame-yt
 Vimeo iFrame | !mdb-iFrame-vimeo
 
+#### Edge Header
+Name of component | Shortcut
+------------ | -------------
+Basic Edge Header | !mdb-edge-header
 -----------------------------------------------------------------------------------------------------------
 
 ## Versions
