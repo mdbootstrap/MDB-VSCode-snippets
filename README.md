@@ -213,7 +213,8 @@ Vimeo iFrame | !mdb-iFrame-vimeo
 #### Edge Header
 Name of component | Shortcut
 ------------ | -------------
-Basic Edge Header | !mdb-edge-header
+Edge Header | !mdb-edge-header
+
 -----------------------------------------------------------------------------------------------------------
 
 ## Versions
