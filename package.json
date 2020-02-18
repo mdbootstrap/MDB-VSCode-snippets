@@ -3,7 +3,7 @@
     "publisher": "MDB",
     "displayName": "mdbsnippets",
     "description": "MDBootstrap snippet generator",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "icon": "image/mdb.png",
     "repository": {
 		"type": "git",
@@ -14,7 +14,11 @@
 		"MDbootstrap",
         "MDB",
         "HTML",
-        "JavaScript"
+        "JavaScript",
+        "bootstrap",
+        "snippet",
+        "jQuery 3",
+        "Bootstrap 4"
 	],
     "engines": {
         "vscode": "^1.41.0"
