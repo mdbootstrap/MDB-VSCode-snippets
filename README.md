@@ -219,13 +219,10 @@ Edge Header | !mdb-edge-header
 
 ## Versions
 
-<<<<<<< HEAD
 ### 1.4.0
 Update template to MDB 4.14.0 version.
-=======
 ### 1.3.1
 Fix Docs problem.
->>>>>>> 09c3dbb733904bd3d481239ecff3678968f57479
 ### 1.3.0
 New snippets for MDB components and update template to MDB 4.13.0 version.
 ### 1.2.0
