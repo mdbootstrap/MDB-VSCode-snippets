@@ -2,6 +2,11 @@
 
 All notable changes to the "mdbsnippets" extension will be documented in this file.
 
+## [1.4.1]
+
+### What's new?
+New version contains update html template to MDB 4.14.1 version.
+
 ## [1.4.0]
 
 ### What's new?
