@@ -219,6 +219,8 @@ Edge Header | !mdb-edge-header
 
 ## Versions
 
+### 1.4.2
+Update template to MDB 4.15.0 version.
 ### 1.4.1
 Update template to MDB 4.14.1 version.
 ### 1.4.0
