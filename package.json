@@ -3,7 +3,7 @@
     "publisher": "MDB",
     "displayName": "mdbsnippets",
     "description": "MDBootstrap snippet generator",
-    "version": "1.4.5",
+    "version": "1.4.6",
     "icon": "image/mdb.png",
     "repository": {
 		"type": "git",
